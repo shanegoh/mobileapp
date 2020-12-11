@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>100 - 20 = ?</string>
+	<string>50 + 20 = ?</string>
+	<string>150 / 3 = ?</string>
+	<string>20 * 3 = ?</string>
+	<string>43 - 3 = ?</string>
+	<string>56 + 24 = ?</string>
+	<string>55 / 11 = ?</string>
+	<string>22 * 3 = ?</string>
+	<string>13 + 13 = ?</string>
+	<string>22 * 0 = ?</string>
+	<string>60 / 60 = ?</string>
+	<string>13 + 31 = ?</string>
+	<string>60 / 3 = ?</string>
+	<string>111 - 11 = ?</string>
+	<string>14 * 2 = ?</string>
+</array>
+</plist>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Mount Fuji</string>
+		<string>K2</string>
+		<string>Denali</string>
+		<string>Mount Everest</string>
+	</array>
+	<array>
+		<string>Longtitude</string>
+		<string>Meter</string>
+		<string>Equator</string>
+		<string>Centimeter</string>
+	</array>
+	<array>
+		<string>Germany</string>
+		<string>Thailand</string>
+		<string>India</string>
+		<string>China</string>
+	</array>
+	<array>
+		<string>Singapore River</string>
+		<string>Kallang River</string>
+		<string>The Nile, Africa</string>
+		<string>Malaysia River</string>
+	</array>
+	<array>
+		<string>Victoria Falls</string>
+		<string>Rain Vortex</string>
+		<string>Niagara Falls</string>
+		<string>Iguazu Falls</string>
+	</array>
+	<array>
+		<string>Kalahari Desert</string>
+		<string>Namib Desert</string>
+		<string>Erg Chebbi</string>
+		<string>Sahara Desert</string>
+	</array>
+	<array>
+		<string>River Branch</string>
+		<string>Oxbow Lake</string>
+		<string>Tributaries</string>
+		<string>Branches</string>
+	</array>
+	<array>
+		<string>Fire</string>
+		<string>Lava</string>
+		<string>Magma</string>
+		<string>Sun</string>
+	</array>
+	<array>
+		<string>Antarctica</string>
+		<string>Europe</string>
+		<string>Africa</string>
+		<string>Asia</string>
+	</array>
+	<array>
+		<string>Singapore</string>
+		<string>Hong Kong</string>
+		<string>Vatican City</string>
+		<string>Russia</string>
+	</array>
+	<array>
+		<string>Venus</string>
+		<string>Uranus</string>
+		<string>Sun</string>
+		<string>Pluto</string>
+	</array>
+	<array>
+		<string>Leaf Direction</string>
+		<string>Wind Direction</string>
+		<string>Air Density</string>
+		<string>Leeward direction</string>
+	</array>
+	<array>
+		<string>Thermometer</string>
+		<string>Anemometer</string>
+		<string>Speedometer</string>
+		<string>Gravimeter</string>
+	</array>
+	<array>
+		<string>Singapore River</string>
+		<string>Amazon</string>
+		<string>Jurong Lake</string>
+		<string>Nile</string>
+	</array>
+	<array>
+		<string>China</string>
+		<string>South Korea</string>
+		<string>Singapore</string>
+		<string>Hong Kong</string>
+	</array>
+</array>
+</plist>

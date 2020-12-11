@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ActiveAndFit</string>
+    <string name="app_logo">Xercise</string>
+    <string name="programme">Please Select A Programme:</string>
+    <string name="booking">Please select a date, time and number of session(s).</string>
+    <string name="Available_Slot_Label">Time Slot:</string>
+    <string name="noOfSession_Label">Session(s):</string>
+    <string name="defaultSlotNumber">1</string>
+    <string name="add_to_Cart">ADD TO CART</string>
+    <string name="type">Day Of The Week:</string>
+    <string name="timeSlotLabel">Time Slot:</string>
+    <string name="bookingLabel">Booking Details</string>
+    <string name="receipt">E-Receipt</string>
+    <string name="desc">GymImage</string>
+    <string name="PROCEED">PROCEED</string>
+    <string name="BACK">BACK</string>
+    <string name="OK">Back To Main</string>
+    <string name="Pool">Pool</string>
+    <string name="Tennis">Tennis Court </string>
+    <string name="Squash">Squash Court</string>
+    <string name="Yoga">Yoga Room</string>
+    <string name="Func">Functional Fitness</string>
+    <string name="finishDetails">List of your Bookings</string>
+    <string name="paymentDetail">The information below are your payment details</string>
+
+
+</resources>

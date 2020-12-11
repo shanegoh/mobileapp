@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Which is the tallest mountain in the world?</string>
+	<string>Which is the latitude that runs through the centre of the Earth?</string>
+	<string>Which country has the highest population?</string>
+	<string>Which is the longest river in the world?</string>
+	<string>Which is the largest waterfall in the world?</string>
+	<string>Which is the largest desert in the world?</string>
+	<string>What are the branches of a river called?</string>
+	<string>What heats the water in a hot spring?</string>
+	<string>Which is the coldest continent in the world?</string>
+	<string>Which is the world’s smallest country?</string>
+	<string>Which planet is closest to Planet Earth?</string>
+	<string>Which is the direction at which wind blows?</string>
+	<string>How do you measure the speed of wind?</string>
+	<string>Name the river that is not crossed by any bridges.</string>
+	<string>Which is the world’s largest port?</string>
+</array>
+</plist>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Data" representedClassName="Data" syncable="YES" codeGenerationType="class">
+        <attribute name="emailID" optional="YES" attributeType="String"/>
+        <attribute name="overallpoints" optional="YES" attributeType="String"/>
+        <attribute name="passwordID" optional="YES" attributeType="String"/>
+        <attribute name="usernameID" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="GeoQuestion" representedClassName="GeoQuestion" syncable="YES" codeGenerationType="class">
+        <attribute name="answer" optional="YES" attributeType="String"/>
+        <attribute name="option" optional="YES" attributeType="Transformable"/>
+        <attribute name="question" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="LitQuestion" representedClassName="LitQuestion" syncable="YES" codeGenerationType="class">
+        <attribute name="answer" optional="YES" attributeType="String"/>
+        <attribute name="option" optional="YES" attributeType="Transformable"/>
+        <attribute name="question" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MathQuestion" representedClassName="MathQuestion" syncable="YES" codeGenerationType="class">
+        <attribute name="answer" optional="YES" attributeType="String"/>
+        <attribute name="question" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Record" representedClassName="Record" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="gameMode" optional="YES" attributeType="String"/>
+        <attribute name="points" optional="YES" attributeType="String"/>
+        <attribute name="score" optional="YES" attributeType="String"/>
+        <attribute name="usernameID" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Data" positionX="-63" positionY="-18" width="128" height="103"/>
+        <element name="GeoQuestion" positionX="-54" positionY="27" width="128" height="88"/>
+        <element name="LitQuestion" positionX="-54" positionY="27" width="128" height="88"/>
+        <element name="MathQuestion" positionX="-54" positionY="18" width="128" height="73"/>
+        <element name="Record" positionX="-45" positionY="36" width="128" height="118"/>
+    </elements>
+</model>

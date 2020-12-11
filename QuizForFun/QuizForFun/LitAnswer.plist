@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>3 Little Pigs</string>
+		<string>The Gruffalo</string>
+		<string>Alice in Wonderland</string>
+		<string>None of the above</string>
+	</array>
+	<array>
+		<string>Jules Verne</string>
+		<string>Darwin</string>
+		<string>Wilfred Owen</string>
+		<string>John F. Kennedy</string>
+	</array>
+	<array>
+		<string>New England Biolabs</string>
+		<string>New English Bible</string>
+		<string>New Molecular Biology</string>
+		<string>None of the above</string>
+	</array>
+	<array>
+		<string>Daniel Defoe</string>
+		<string>John Keats</string>
+		<string>Ambrose Bierce</string>
+		<string>Banjo Paterson</string>
+	</array>
+	<array>
+		<string>151</string>
+		<string>152</string>
+		<string>153</string>
+		<string>154</string>
+	</array>
+	<array>
+		<string>Alex Haley</string>
+		<string>Lord Byron</string>
+		<string>John Masefield</string>
+		<string>Saki</string>
+	</array>
+	<array>
+		<string>Nikola Tesla</string>
+		<string>Franz Kafka</string>
+		<string>John Donne</string>
+		<string>William Golding</string>
+	</array>
+	<array>
+		<string>O. Henry</string>
+		<string>Rober Frost</string>
+		<string>Oscar Wilde</string>
+		<string>Ben Jonson</string>
+	</array>
+	<array>
+		<string>Abraham Lincoln</string>
+		<string>Gary Rhodes</string>
+		<string>John Keats</string>
+		<string>You</string>
+	</array>
+	<array>
+		<string>Stephen Hawking</string>
+		<string>Jack London</string>
+		<string>Ovid</string>
+		<string>Aristotle</string>
+	</array>
+	<array>
+		<string>Edgar Allan Poe</string>
+		<string>Anton Chekhov</string>
+		<string>Agatha Christie</string>
+		<string>Jacob De Haas</string>
+	</array>
+	<array>
+		<string>Gianni Versace</string>
+		<string>Oscar Wilde</string>
+		<string>Catullus</string>
+		<string>Barack Obama</string>
+	</array>
+	<array>
+		<string>Seneca</string>
+		<string>Leo</string>
+		<string>Emily</string>
+		<string>Jane Austen</string>
+	</array>
+	<array>
+		<string>Gary Chua</string>
+		<string>Fortune Teller</string>
+		<string>Phil Ochs</string>
+		<string>None of the Above</string>
+	</array>
+	<array>
+		<string>F Scott Fitzgerald</string>
+		<string>James Bond</string>
+		<string>Charles Yeo</string>
+		<string>Robert Peterson</string>
+	</array>
+</array>
+</plist>
